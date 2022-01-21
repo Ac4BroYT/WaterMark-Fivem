@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+body{
+  background: transparent !important;
+}
+span{
+  margin-top: 1rem !important;
+  margin-bottom: 0 !important;
+  font-size: 1.8rem;
+  font-family: 'Oswald', sans-serif;
+  color: rgb(245, 209, 6) !important;
+}
+h1{
+  margin-top: 1rem !important;
+  margin-bottom: 0 !important;
+  font-size: 1.8rem;
+  font-family: 'Oswald', sans-serif;
+  color: rgb(255, 255, 255) !important;
+}
+#horario h3{
+  -webkit-font-smoothing: antialiased;
+  font-size: 0.9rem;
+  color: rgb(255, 255, 255);
+}
